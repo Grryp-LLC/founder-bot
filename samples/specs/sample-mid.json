@@ -1,0 +1,48 @@
+{
+  "type": "launch-board",
+  "mission": "Fieldnote Coffee Roasters",
+  "launch_label": "Oct 23, 2026",
+  "days_to_launch": 25,
+  "stages": [
+    {
+      "key": "legal",
+      "label": "LEGAL",
+      "done": 10,
+      "total": 10
+    },
+    {
+      "key": "store",
+      "label": "STORE",
+      "done": 2,
+      "total": 7
+    },
+    {
+      "key": "marketing",
+      "label": "MARKETING",
+      "done": 2,
+      "total": 6
+    },
+    {
+      "key": "money",
+      "label": "MONEY",
+      "done": 4,
+      "total": 6
+    },
+    {
+      "key": "ops",
+      "label": "OPS",
+      "done": 2,
+      "total": 5
+    }
+  ],
+  "done": 20,
+  "total": 34,
+  "next": [
+    "Draft first product listings",
+    "Put estimated-tax dates on the calendar",
+    "Set up email list and signup form"
+  ],
+  "wins_week": 4,
+  "week_label": "Week of Sep 28",
+  "anonymous": false
+}

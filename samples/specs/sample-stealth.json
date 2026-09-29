@@ -1,0 +1,46 @@
+{
+  "type": "launch-board",
+  "mission": "Project Nightjar",
+  "launch_label": "Oct 2, 2026",
+  "days_to_launch": 4,
+  "stages": [
+    {
+      "key": "legal",
+      "label": "LEGAL",
+      "done": 10,
+      "total": 10
+    },
+    {
+      "key": "store",
+      "label": "STORE",
+      "done": 7,
+      "total": 7
+    },
+    {
+      "key": "marketing",
+      "label": "MARKETING",
+      "done": 5,
+      "total": 6
+    },
+    {
+      "key": "money",
+      "label": "MONEY",
+      "done": 6,
+      "total": 6
+    },
+    {
+      "key": "ops",
+      "label": "OPS",
+      "done": 5,
+      "total": 5
+    }
+  ],
+  "done": 33,
+  "total": 34,
+  "next": [
+    "Plan a small ad test"
+  ],
+  "wins_week": 2,
+  "week_label": "Week of Sep 28",
+  "anonymous": true
+}

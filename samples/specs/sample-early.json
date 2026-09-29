@@ -1,0 +1,48 @@
+{
+  "type": "launch-board",
+  "mission": "Juniper & Ash Candle Co.",
+  "launch_label": "Nov 13, 2026",
+  "days_to_launch": 68,
+  "stages": [
+    {
+      "key": "legal",
+      "label": "LEGAL",
+      "done": 2,
+      "total": 10
+    },
+    {
+      "key": "store",
+      "label": "STORE",
+      "done": 0,
+      "total": 7
+    },
+    {
+      "key": "marketing",
+      "label": "MARKETING",
+      "done": 2,
+      "total": 6
+    },
+    {
+      "key": "money",
+      "label": "MONEY",
+      "done": 0,
+      "total": 6
+    },
+    {
+      "key": "ops",
+      "label": "OPS",
+      "done": 1,
+      "total": 5
+    }
+  ],
+  "done": 5,
+  "total": 34,
+  "next": [
+    "Check name availability in your state",
+    "File formation with the state",
+    "Pick a registered agent"
+  ],
+  "wins_week": 5,
+  "week_label": "Week of Sep 6",
+  "anonymous": false
+}
