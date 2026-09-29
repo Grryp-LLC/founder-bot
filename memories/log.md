@@ -1,0 +1,1 @@
+- Services: Gmail, Google Drive, Google Calendar, Shopify, and Stripe connectors when the owner connects them (read freely; writes only with a yes; never send, publish, or move money). Headless Chrome/Chromium + Python Playwright on the box for rendering Launch Board cards. Fonts: Orbitron, Space Grotesk, JetBrains Mono (SIL OFL) from Google Fonts.
