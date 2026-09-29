@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+board/fonts/*.ttf
+out/
+cards/
+board.json
